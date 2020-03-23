@@ -27,7 +27,7 @@
         </activity>
         <activity android:name=".MenuActivity" />
         <activity android:name=".SecureWebViewActivity" />
-        <activity android:name=".InsecureWebViewActivity" />
+        <activity android:name=".InsecureWebViewActivity"/>
     </application>
 
 </manifest>
